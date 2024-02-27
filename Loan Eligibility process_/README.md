@@ -21,7 +21,7 @@ some features.
 
 ## Business Question
 
- This is a ML model which helps the housing finance company in loan eligibility validation process by predicting :
+ This is a ML model from scratch which helps the housing finance company in loan eligibility validation process by predicting :
 
 1. The loan acceptance status (whether the loan is approved or rejected).
 2. Max. loan amount.
